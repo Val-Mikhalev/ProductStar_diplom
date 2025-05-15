@@ -1,2 +1,2 @@
-# productstar_diplom
+# Productstar_diplom
 Дипломная работа по курсу "Профессия: Data Scientist".
